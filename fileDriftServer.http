@@ -1,0 +1,6 @@
+@fileDriftServer_HostAddress = http://localhost:5044
+
+GET {{fileDriftServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
